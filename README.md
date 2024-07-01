@@ -3,7 +3,7 @@
 
 *) DO NOT RUN ANY PLACE ORDER, DO NOT RUN ANY ORDER FILE OR METHOD FROM ORDERS. Unless you are sure that you want to post the order.
 
-1) Install Python 3.11.9
+1) Install Python 3.11.9 or a newer version
 2) When you are installing choose to add PATH variable to python, tick the all options.
 3) Install pycharm community edition
 4) Import project
