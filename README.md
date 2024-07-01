@@ -1,7 +1,7 @@
 # ByBitTrader
 # FOLLOWED TUTORIAL: https://www.codearmo.com/python-tutorial/bybit-intro
 
-*) DO NOT RUN ANY PLACE ORDER, DO NOT RUN ANY ORDER FILE OR METHOD FROM ORDERS. Unless you are sure that you want to post the order.
+*) DO NOT RUN ANY PLACE ORDER, DO NOT RUN ANY METHOD FROM ORDERS.py. Unless you are sure that you want to post/place the order. YOU CAN RUN ANY OTHER METHOD FROM ANYOTHER FILE.
 
 1) Install Python 3.11.9 or a newer version
 2) When you are installing choose to add PATH variable to python, tick the all options.
