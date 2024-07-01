@@ -1,4 +1,6 @@
 # ByBitTrader
+# FOLLOWED TUTORIAL: https://www.codearmo.com/python-tutorial/bybit-intro
+
 *) DO NOT RUN ANY PLACE ORDER, DO NOT RUN ANY ORDER FILE OR METHOD FROM ORDERS. Unless you are sure that you want to post the order.
 
 1) Install Python 3.11.9
